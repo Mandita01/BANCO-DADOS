@@ -124,6 +124,11 @@ Perguntas para reflexão:
 - Quais informações podem apoiar uma análise estratégica e operacional?
 
 ---
+## 🍦 Análise de vendas de sorvete
+
+A análise observa a relação entre a **temperatura** e a **receita das vendas de sorvete**. No gráfico, cada ponto representa um registro: a temperatura aparece no eixo horizontal e a receita, no eixo vertical. A linha de tendência indica uma relação positiva: em geral, temperaturas mais altas estão associadas a receitas maiores.
+
+Isso sugere que o calor pode estar relacionado ao aumento das vendas, mas não prova que seja a única causa. Promoções, localização e quantidade de clientes também podem influenciar os resultados. A moeda usada para registrar a receita deve ser confirmada na fonte dos dados.
 -Imagem Ice-Crean-''COLAB''
 -Grafíco de Temperatura da Sorveteria
 </head>
@@ -155,9 +160,9 @@ Perguntas para reflexão:
 </html>
 
 
-## 🧾 Resumo do projeto
+## 🧾 Resumo dos Projetos
 
-Este projeto reúne análise de dados públicos, visualização de indicadores e interpretação de padrões em diferentes contextos, com foco em PROCON, energia e dados estratégicos para suporte a decisões informadas.
+Este projeto reúne análise de dados públicos, visualização de indicadores e interpretação de padrões em diferentes contextos, e dados estratégicos para suporte e tomada de decisões informadas.
 
 ---
 
