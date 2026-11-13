@@ -124,6 +124,36 @@ Perguntas para reflexão:
 - Quais informações podem apoiar uma análise estratégica e operacional?
 
 ---
+-Imagem Ice-Crean-''COLAB''
+-Grafíco de Temperatura da Sorveteria
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Imagens recentes do projeto</h1>
+      <p>Capturas mais recentes adicionadas ao repositório BANCO-DADOS.</p>
+    </header>
+    <section class="gallery" aria-label="Imagens recentes">
+      <figure>
+        <a href="Captura%20de%20tela%202026-11-13%20013047.png" target="_blank" rel="noopener">
+          <img src="Captura%20de%20tela%202026-11-13%20013047.png" alt="Captura de tela do projeto adicionada em 13 de novembro de 2026 às 01:30" loading="lazy">
+        </a>
+        <figcaption>Captura de tela — 13/11/2026, 01:30</figcaption>
+      </figure>
+      <figure>
+        <a href="Captura%20de%20tela%202026-11-13%20013315.png" target="_blank" rel="noopener">
+          <img src="Captura%20de%20tela%202026-11-13%20013315.png" alt="Captura de tela do projeto adicionada em 13 de novembro de 2026 às 01:33" loading="lazy">
+        </a>
+        <figcaption>Captura de tela — 13/11/2026, 01:33</figcaption>
+      </figure>
+    </section>
+    <footer>
+      <a href="Untitled0.ipynb">Abrir o notebook da análise</a>
+    </footer>
+  </main>
+</body>
+</html>
+
 
 ## 🧾 Resumo do projeto
 
