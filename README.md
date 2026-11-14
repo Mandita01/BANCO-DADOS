@@ -171,7 +171,12 @@ Prova da Adriana de Power Bii
 
 Este projeto reúne análise de dados públicos, visualização de indicadores e interpretação de padrões em diferentes contextos, e dados estratégicos para suporte e tomada de decisões informadas.
 [Prova da Amanda](https://github.com/Mandita01/BANCO-DADOS/blob/main/Prova-Amanda.pbix)
----
+## Mapa Demonstrativo da Localização das indútrias
+
+![Captura de tela](Captura%20de%20tela%202026-11-13%20221412.png)
+
+
+
 
 ## ✅ Conclusão
 
