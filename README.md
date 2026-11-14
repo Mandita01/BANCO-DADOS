@@ -159,7 +159,14 @@ Isso sugere que o calor pode estar relacionado ao aumento das vendas, mas não p
 </body>
 </html>
 
-
+---
+Prova da Adriana de Power Bii
+<figure>
+  <a href="Captura%20de%20tela%202026-11-13%20214421.png" target="_blank" rel="noopener">
+    <img src="Captura%20de%20tela%202026-11-13%20214421.png" alt="Captura de tela do projeto adicionada em 13 de novembro de 2026 às 21:44" loading="lazy">
+  </a>
+  <figcaption>Captura de tela — 13/11/2026, 21:44</figcaption>
+</figure>
 ## 🧾 Resumo dos Projetos
 
 Este projeto reúne análise de dados públicos, visualização de indicadores e interpretação de padrões em diferentes contextos, e dados estratégicos para suporte e tomada de decisões informadas.
