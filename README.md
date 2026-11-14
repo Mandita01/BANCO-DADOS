@@ -170,7 +170,7 @@ Prova da Adriana de Power Bii
 ## 🧾 Resumo dos Projetos
 
 Este projeto reúne análise de dados públicos, visualização de indicadores e interpretação de padrões em diferentes contextos, e dados estratégicos para suporte e tomada de decisões informadas.
-
+[Prova da Amanda](https://github.com/Mandita01/BANCO-DADOS/blob/main/Prova-Amanda.pbix)
 ---
 
 ## ✅ Conclusão
