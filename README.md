@@ -175,6 +175,16 @@ Este projeto reúne análise de dados públicos, visualização de indicadores e
 
 ![Captura de tela](Captura%20de%20tela%202026-11-13%20221412.png)
 
+<p align="center">
+  <img
+    src="Captura%20de%20tela%202026-11-13%20223110.png"
+    alt="Captura de tela — 13/11/2026 às 22:31"
+    width="900"
+  />
+</p>
+
+Com este Gráfico podemos fazer uma comparação do crescimento industrial em com
+
 
 
 
