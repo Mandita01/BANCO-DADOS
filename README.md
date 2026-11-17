@@ -190,7 +190,7 @@ Link direto para baixar o arquivo:
 
 https://github.com/Mandita01/BANCO-DADOS/raw/refs/heads/main/Expectativa%20M%C3%A9dia%20de%20uni%C3%A3o.pbix
 
-
+[![Screenshot](https://github.com/Mandita01/BANCO-DADOS/raw/09f17d7d39a6d7ef46f56750d71c9f6e7a5890ed/Captura%20de%20tela%202026-11-17%20170553.png)](https://github.com/Mandita01/BANCO-DADOS/blob/09f17d7d39a6d7ef46f56750d71c9f6e7a5890ed/Captura%20de%20tela%202026-11-17%20170553.png)
 
 
 ## ✅ Conclusão
