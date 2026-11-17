@@ -184,6 +184,11 @@ Este projeto reúne análise de dados públicos, visualização de indicadores e
 </p>
 
 Com este Gráfico podemos fazer uma comparação do crescimento industrial em com
+---
+### Idade Média de União de Homens , Mulheres e Homoafetivo
+Link direto para baixar o arquivo:
+
+https://github.com/Mandita01/BANCO-DADOS/raw/refs/heads/main/Expectativa%20M%C3%A9dia%20de%20uni%C3%A3o.pbix
 
 
 
